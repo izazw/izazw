@@ -7,7 +7,7 @@
 
 ## I'm a human 
 * I'm solving problems 💡 and I use tech to achieve that. I love to share my knowledge too!
-* I live in Ottawa where I work 👩🏼‍💻, hike 🏔️, read 📖, and raise kids🤸🏻‍♀️ and cats 🐈, and growing tomatoes 🍅!
+* I live in Ottawa where I work 👩🏼‍💻, hike 🏔️, read 📖, and raise kids🤸🏻‍♀️ and cats 🐈, and grow tomatoes 🍅!
 * 💬 I'm happy to talk about learning, coding, books, switching to tech while being a mom
 * ⚡ Fun fact: I used to run a foster home for homeless cats (and hosted 50 of them over a period of a few years). 
 
