@@ -1,6 +1,6 @@
 # Hi, I'm Iza (🗣️ EE-zah) 👋!
 
-## I'm a Front-End Developer with a background in the operations of cool companies in Europe 
+## I'm a Front-End Developer with a background in the operations of some cool companies in Europe 
 * 💻 My tech stack includes React, Javascript, HTML5, and CSS.
 * 👯 I’m currently looking for a job! I'm also looking for opportunities to collaborate on open-source projects related to social and climate impact.  
 * 🌱 I’m recently working on widening my JavaScript skills and learning Jest and Typescript.
