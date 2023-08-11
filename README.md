@@ -13,5 +13,5 @@
 * ⚡ Fun fact: I used to run a foster home for homeless cats (and hosted 50 of them over a period of a few years). 
 
 
-📫 How to reach me: [my portfolio](https://izacodes.me/) and [LinkedIn](https://www.linkedin.com/in/izazw/)
+📫 How to reach me: izamorska@gmail.com || [Portfolio](https://izacodes.me/) ||  [LinkedIn](https://www.linkedin.com/in/izazw/) || [Codewars](https://www.codewars.com/users/izazw)
 
